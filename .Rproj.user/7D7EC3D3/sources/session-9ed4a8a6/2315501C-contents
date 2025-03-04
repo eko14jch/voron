@@ -1,0 +1,10 @@
+
+install.packages("devtools")
+library(usethis)
+library(devtools)
+build()
+document()
+check()
+
+
+install_github("eko14jch/christerson")

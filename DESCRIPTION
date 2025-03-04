@@ -1,0 +1,9 @@
+Package: christerson
+Version: 0.1	
+Date: 2025-03-03
+Title: Christerson's personal package
+Description: Functions that Christerson uses frequently.
+Author: JG Christerson
+Maintainer: JG Christerson <johanneschr@hotmail.com>
+License: GPL-3
+RoxygenNote: 7.3.2
